@@ -32,7 +32,6 @@ margin: 0 auto;
 
     <div></div>
 
-
 ####Deleted z-index.
 
 The css originally had one class *headerimg* set to z-index 1 and *titleBar* at z-index 2. We deleted the z-index setting for headerimg and changed the other to z-index 1.
