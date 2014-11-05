@@ -2,6 +2,9 @@ body {
   font-family: sans-serif;
   background-color: #dcd6c0;
 }
+.clear-float {
+  clear:both;
+}
 .page-content {
   width: 960px;
   margin: 0 auto;
@@ -60,7 +63,7 @@ header img {
 main {
   float: right;
   background-color: #cabb94;
-  height: 950px;
+  height: 906px;
   width: 640px;
   margin-top: 10px;
   text-align: center;
@@ -77,6 +80,5 @@ footer {
   border-radius: 5px;
   color: #fffdee;
   padding: 2px;
-  margin:auto;
-  clear:both;
+  margin:15px auto;
 }
