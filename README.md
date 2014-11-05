@@ -1,5 +1,6 @@
 ##Refactor
 ##Refactor another teams assignment
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/KateFleming/Refactor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ###We shortened the css file from 100 lines to 76 lines.
