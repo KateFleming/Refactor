@@ -26,8 +26,7 @@ margin: 0 auto;
 .profile-text {
    -  position: absolute;
    -  bottom: 0px;}
-
-    ```
+```
 ####Deleted unnessary tag. e.g.
 
     <div></div>
