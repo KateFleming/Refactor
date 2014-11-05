@@ -2,12 +2,10 @@ body {
   font-family: sans-serif;
   background-color: #dcd6c0;
 }
-.clear-float {
-  clear:both;
-}
 .page-content {
   width: 960px;
   margin: 0 auto;
+  overflow:auto;
 }
 .title-bar {
   background-color: #524D70;
